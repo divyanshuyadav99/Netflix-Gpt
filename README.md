@@ -5,6 +5,10 @@
 -Header
 -Login Form
 -Signup form
+-Form VAlidation
+-UseRef Hook
+-Firebase setup
+-Create sign up User account 
 
 
 #Features
